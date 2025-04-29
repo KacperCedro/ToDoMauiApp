@@ -1,0 +1,14 @@
+C:\Users\Sala213\source\repos\ToDoMauiApp\ToDoDatabaseLibrary\bin\Debug\net8.0\ToDoDatabaseLibrary.deps.json
+C:\Users\Sala213\source\repos\ToDoMauiApp\ToDoDatabaseLibrary\bin\Debug\net8.0\ToDoDatabaseLibrary.runtimeconfig.json
+C:\Users\Sala213\source\repos\ToDoMauiApp\ToDoDatabaseLibrary\bin\Debug\net8.0\ToDoDatabaseLibrary.dll
+C:\Users\Sala213\source\repos\ToDoMauiApp\ToDoDatabaseLibrary\bin\Debug\net8.0\ToDoDatabaseLibrary.pdb
+C:\Users\Sala213\source\repos\ToDoMauiApp\ToDoDatabaseLibrary\obj\Debug\net8.0\ToDoDatabaseLibrary.csproj.AssemblyReference.cache
+C:\Users\Sala213\source\repos\ToDoMauiApp\ToDoDatabaseLibrary\obj\Debug\net8.0\ToDoDatabaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sala213\source\repos\ToDoMauiApp\ToDoDatabaseLibrary\obj\Debug\net8.0\ToDoDatabaseLibrary.AssemblyInfoInputs.cache
+C:\Users\Sala213\source\repos\ToDoMauiApp\ToDoDatabaseLibrary\obj\Debug\net8.0\ToDoDatabaseLibrary.AssemblyInfo.cs
+C:\Users\Sala213\source\repos\ToDoMauiApp\ToDoDatabaseLibrary\obj\Debug\net8.0\ToDoDatabaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sala213\source\repos\ToDoMauiApp\ToDoDatabaseLibrary\obj\Debug\net8.0\ToDoDatabaseLibrary.dll
+C:\Users\Sala213\source\repos\ToDoMauiApp\ToDoDatabaseLibrary\obj\Debug\net8.0\refint\ToDoDatabaseLibrary.dll
+C:\Users\Sala213\source\repos\ToDoMauiApp\ToDoDatabaseLibrary\obj\Debug\net8.0\ToDoDatabaseLibrary.pdb
+C:\Users\Sala213\source\repos\ToDoMauiApp\ToDoDatabaseLibrary\obj\Debug\net8.0\ToDoDatabaseLibrary.genruntimeconfig.cache
+C:\Users\Sala213\source\repos\ToDoMauiApp\ToDoDatabaseLibrary\obj\Debug\net8.0\ref\ToDoDatabaseLibrary.dll
