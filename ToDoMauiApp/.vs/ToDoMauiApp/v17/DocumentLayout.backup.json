@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\",
+  "WorkspaceRootPath": "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5796B534-25EF-461F-BAF3-3147D4FF5167}|ToDoMauiApp\\ToDoMauiApp.csproj|c:\\users\\sala213\\source\\repos\\todomauiapp\\todomauiapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5796B534-25EF-461F-BAF3-3147D4FF5167}|ToDoMauiApp\\ToDoMauiApp.csproj|solutionrelative:todomauiapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{BE01E6E7-5CDF-4652-AFCE-9C8FDF357486}|ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj|c:\\kacpercedro\\todomauiapp\\todomauiapp\\tododatabaselibrary\\models\\todomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE01E6E7-5CDF-4652-AFCE-9C8FDF357486}|ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj|solutionrelative:tododatabaselibrary\\models\\todomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5796B534-25EF-461F-BAF3-3147D4FF5167}|ToDoMauiApp\\ToDoMauiApp.csproj|c:\\users\\sala213\\source\\repos\\todomauiapp\\todomauiapp\\todoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5796B534-25EF-461F-BAF3-3147D4FF5167}|ToDoMauiApp\\ToDoMauiApp.csproj|c:\\kacpercedro\\todomauiapp\\todomauiapp\\todomauiapp\\todoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5796B534-25EF-461F-BAF3-3147D4FF5167}|ToDoMauiApp\\ToDoMauiApp.csproj|solutionrelative:todomauiapp\\todoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5796B534-25EF-461F-BAF3-3147D4FF5167}|ToDoMauiApp\\ToDoMauiApp.csproj|c:\\users\\sala213\\source\\repos\\todomauiapp\\todomauiapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5796B534-25EF-461F-BAF3-3147D4FF5167}|ToDoMauiApp\\ToDoMauiApp.csproj|c:\\kacpercedro\\todomauiapp\\todomauiapp\\todomauiapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5796B534-25EF-461F-BAF3-3147D4FF5167}|ToDoMauiApp\\ToDoMauiApp.csproj|solutionrelative:todomauiapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5796B534-25EF-461F-BAF3-3147D4FF5167}|ToDoMauiApp\\ToDoMauiApp.csproj|c:\\kacpercedro\\todomauiapp\\todomauiapp\\todomauiapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5796B534-25EF-461F-BAF3-3147D4FF5167}|ToDoMauiApp\\ToDoMauiApp.csproj|solutionrelative:todomauiapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE01E6E7-5CDF-4652-AFCE-9C8FDF357486}|ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj|c:\\users\\sala213\\source\\repos\\todomauiapp\\tododatabaselibrary\\dbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE01E6E7-5CDF-4652-AFCE-9C8FDF357486}|ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj|c:\\kacpercedro\\todomauiapp\\todomauiapp\\tododatabaselibrary\\dbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE01E6E7-5CDF-4652-AFCE-9C8FDF357486}|ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj|solutionrelative:tododatabaselibrary\\dbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -43,54 +47,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoMauiApp\\MainPage.xaml",
-              "RelativeDocumentMoniker": "ToDoMauiApp\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoMauiApp\\MainPage.xaml",
-              "RelativeToolTip": "ToDoMauiApp\\MainPage.xaml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-08T10:49:50.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ToDoViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoMauiApp\\ToDoViewModel.cs",
-              "RelativeDocumentMoniker": "ToDoMauiApp\\ToDoViewModel.cs",
-              "ToolTip": "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoMauiApp\\ToDoViewModel.cs",
-              "RelativeToolTip": "ToDoMauiApp\\ToDoViewModel.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAcwC4AAAAjAAAAAAAAAA==",
+              "Title": "ToDoModel.cs",
+              "DocumentMoniker": "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoDatabaseLibrary\\Models\\ToDoModel.cs",
+              "RelativeDocumentMoniker": "ToDoDatabaseLibrary\\Models\\ToDoModel.cs",
+              "ToolTip": "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoDatabaseLibrary\\Models\\ToDoModel.cs",
+              "RelativeToolTip": "ToDoDatabaseLibrary\\Models\\ToDoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T10:50:18.848Z",
+              "WhenOpened": "2025-04-29T11:44:15.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoMauiApp\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "ToDoMauiApp\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoMauiApp\\MainPage.xaml.cs",
-              "RelativeToolTip": "ToDoMauiApp\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoMauiApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ToDoMauiApp\\MainPage.xaml",
+              "ToolTip": "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoMauiApp\\MainPage.xaml",
+              "RelativeToolTip": "ToDoMauiApp\\MainPage.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T10:49:50.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoViewModel.cs",
+              "DocumentMoniker": "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoMauiApp\\ToDoViewModel.cs",
+              "RelativeDocumentMoniker": "ToDoMauiApp\\ToDoViewModel.cs",
+              "ToolTip": "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoMauiApp\\ToDoViewModel.cs",
+              "RelativeToolTip": "ToDoMauiApp\\ToDoViewModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwFMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T10:58:39.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T10:50:18.848Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DbRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoDatabaseLibrary\\DbRepository.cs",
-              "RelativeDocumentMoniker": "ToDoDatabaseLibrary\\DbRepository.cs",
-              "ToolTip": "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoDatabaseLibrary\\DbRepository.cs",
-              "RelativeToolTip": "ToDoDatabaseLibrary\\DbRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoMauiApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ToDoMauiApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoMauiApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "ToDoMauiApp\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T09:56:33.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T10:58:39.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbRepository.cs",
+              "DocumentMoniker": "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoDatabaseLibrary\\DbRepository.cs",
+              "RelativeDocumentMoniker": "ToDoDatabaseLibrary\\DbRepository.cs",
+              "ToolTip": "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoDatabaseLibrary\\DbRepository.cs",
+              "RelativeToolTip": "ToDoDatabaseLibrary\\DbRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBcAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:56:33.966Z"
             }
           ]
         }

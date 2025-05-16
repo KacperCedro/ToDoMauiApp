@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoMauiApp\\ToDoMauiApp.csproj": {}
+    "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoMauiApp\\ToDoMauiApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj": {
+    "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj",
+        "projectUniqueName": "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj",
         "projectName": "ToDoDatabaseLibrary",
-        "projectPath": "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj",
+        "projectPath": "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj",
         "packagesPath": "C:\\Users\\Sala213\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoDatabaseLibrary\\obj\\",
+        "outputPath": "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoDatabaseLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -89,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoMauiApp\\ToDoMauiApp.csproj": {
+    "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoMauiApp\\ToDoMauiApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoMauiApp\\ToDoMauiApp.csproj",
+        "projectUniqueName": "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoMauiApp\\ToDoMauiApp.csproj",
         "projectName": "ToDoMauiApp",
-        "projectPath": "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoMauiApp\\ToDoMauiApp.csproj",
+        "projectPath": "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoMauiApp\\ToDoMauiApp.csproj",
         "packagesPath": "C:\\Users\\Sala213\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoMauiApp\\obj\\",
+        "outputPath": "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoMauiApp\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -122,32 +122,32 @@
           "net8.0-android34.0": {
             "targetAlias": "net8.0-android",
             "projectReferences": {
-              "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj": {
-                "projectPath": "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj"
+              "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj": {
+                "projectPath": "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj"
               }
             }
           },
           "net8.0-ios17.5": {
             "targetAlias": "net8.0-ios",
             "projectReferences": {
-              "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj": {
-                "projectPath": "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj"
+              "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj": {
+                "projectPath": "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj"
               }
             }
           },
           "net8.0-maccatalyst17.5": {
             "targetAlias": "net8.0-maccatalyst",
             "projectReferences": {
-              "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj": {
-                "projectPath": "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj"
+              "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj": {
+                "projectPath": "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj"
               }
             }
           },
           "net8.0-windows10.0.19041": {
             "targetAlias": "net8.0-windows10.0.19041.0",
             "projectReferences": {
-              "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj": {
-                "projectPath": "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj"
+              "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj": {
+                "projectPath": "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj"
               }
             }
           }

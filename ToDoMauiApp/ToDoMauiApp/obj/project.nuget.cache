@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J+2JlAS4O9M=",
+  "dgSpecHash": "1rNFH8fOgEY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoMauiApp\\ToDoMauiApp.csproj",
+  "projectFilePath": "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoMauiApp\\ToDoMauiApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sala213\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Sala213\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.12\\microsoft.entityframeworkcore.8.0.12.nupkg.sha512",

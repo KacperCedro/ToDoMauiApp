@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T9mokjP+t4M=",
+  "dgSpecHash": "GMs7huFdaiY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sala213\\source\\repos\\ToDoMauiApp\\ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj",
+  "projectFilePath": "C:\\KacperCedro\\ToDoMauiApp\\ToDoMauiApp\\ToDoDatabaseLibrary\\ToDoDatabaseLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sala213\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Sala213\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
